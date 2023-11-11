@@ -1,1 +1,1 @@
-# JacaScript CRUD App
+# JavaScript CRUD App
