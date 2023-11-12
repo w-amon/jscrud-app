@@ -1,2 +1,2 @@
 # JavaScript CRUD App
-<img scr="./images/img.png">
+<img alt="" scr="/images/img.png">
